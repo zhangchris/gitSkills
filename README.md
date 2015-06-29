@@ -1,3 +1,3 @@
 # gitSkills
 To learn git from remote repository
-Creating a new branch is quick
+Creating a new branch is quick AND simple.
